@@ -263,4 +263,108 @@
             </root>
         </mxGraphModel>
     </diagram>
+    <diagram id="cbdwRo3GOBrVxrk6TLxR" name="2d">
+        <mxGraphModel dx="1130" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-1" value="申請人" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="70" width="150" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-7" value="確認資料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="u5D_hIeVSH-43ICX43j4-1">
+                    <mxGeometry y="60" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-3" value="網站" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="70" width="120" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-8" value="身分證號" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="u5D_hIeVSH-43ICX43j4-3">
+                    <mxGeometry y="35" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-15" value="居留證號" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="u5D_hIeVSH-43ICX43j4-3">
+                    <mxGeometry y="60" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-16" value="金融帳號" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="u5D_hIeVSH-43ICX43j4-3">
+                    <mxGeometry y="80" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-17" value="金融代號" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="u5D_hIeVSH-43ICX43j4-3">
+                    <mxGeometry y="100" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-18" value="健保卡號" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="u5D_hIeVSH-43ICX43j4-3">
+                    <mxGeometry y="120" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-4" value="政府機關人員" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="370" width="150" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-20" value="審核資料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="u5D_hIeVSH-43ICX43j4-4">
+                    <mxGeometry x="10" y="30" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-21" value="確認是否通過" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="u5D_hIeVSH-43ICX43j4-4">
+                    <mxGeometry x="10" y="60" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-5" value="後台人員" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="370" width="150" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-22" value="各項資料比對" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="u5D_hIeVSH-43ICX43j4-5">
+                    <mxGeometry x="10" y="50" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-6" value="填寫資料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="100" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-23" value="" style="endArrow=none;html=1;fontColor=#BECCBA;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="140" as="sourcePoint"/>
+                        <mxPoint x="360" y="140" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-25" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="140" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-26" value="1.." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="140" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-27" value="填寫資料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="160" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-28" value="" style="triangle;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="155" width="30" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-29" value="" style="endArrow=none;html=1;fontColor=#BECCBA;exitX=0.46;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="u5D_hIeVSH-43ICX43j4-4">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="380" y="270" as="sourcePoint"/>
+                        <mxPoint x="430" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-30" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="230" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-31" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="330" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-32" value="確認資料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="1">
+                    <mxGeometry x="354" y="250" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-34" value="" style="triangle;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#BECCBA;fillColor=default;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="369" y="280" width="30" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-35" value="" style="endArrow=none;html=1;fontColor=#BECCBA;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="510" y="450" as="sourcePoint"/>
+                        <mxPoint x="640" y="450" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-36" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="420" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-37" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="420" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-38" value="" style="triangle;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="390" width="30" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5D_hIeVSH-43ICX43j4-39" value="比較資料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#BECCBA;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="395" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
