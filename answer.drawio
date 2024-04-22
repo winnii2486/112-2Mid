@@ -186,4 +186,81 @@
             </root>
         </mxGraphModel>
     </diagram>
+    <diagram id="eL0lJILmFlEoysmZoB9e" name="2b">
+        <mxGraphModel dx="1130" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-1" value="普發8000網站" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="80" width="200" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-7" value="申請者提供的健保卡號與身份證字號或居留證號無法在健保局系統中比對成功" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="Wqma2fmxox-Q1F-XaQAo-1">
+                    <mxGeometry x="40" y="30" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-8" value="申請者提供的金融代號與金融機構的帳戶資訊不符" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="Wqma2fmxox-Q1F-XaQAo-1">
+                    <mxGeometry x="40" y="110" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-9" value="前台設計不易使用，申請者在填寫資料或確認資訊時遇到困難，影響申請流程，降低系統效率" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="Wqma2fmxox-Q1F-XaQAo-1">
+                    <mxGeometry x="40" y="190" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-10" value="系統中的個人資料被濫用或洩漏，政府、金融機構、健保局等單位面臨法律責任與公眾信任危機" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="Wqma2fmxox-Q1F-XaQAo-1">
+                    <mxGeometry x="40" y="270" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-2" value="申請者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="180" width="70" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-3" value="政府機關" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="50" width="70" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-4" value="金融機構" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="220" width="70" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-5" value="健保局" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontColor=#BECCBA;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="390" width="70" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-11" value="" style="endArrow=none;html=1;fontColor=#BECCBA;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Wqma2fmxox-Q1F-XaQAo-7">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="270" as="sourcePoint"/>
+                        <mxPoint x="270" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-12" value="" style="endArrow=none;html=1;fontColor=#BECCBA;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Wqma2fmxox-Q1F-XaQAo-8">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="270" as="sourcePoint"/>
+                        <mxPoint x="270" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-13" value="" style="endArrow=none;html=1;fontColor=#BECCBA;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Wqma2fmxox-Q1F-XaQAo-9">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="270" as="sourcePoint"/>
+                        <mxPoint x="270" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-14" value="" style="endArrow=none;html=1;fontColor=#BECCBA;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wqma2fmxox-Q1F-XaQAo-9">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="600" y="160" as="sourcePoint"/>
+                        <mxPoint x="650" y="110" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-15" value="" style="endArrow=none;html=1;fontColor=#BECCBA;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wqma2fmxox-Q1F-XaQAo-10">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="600" y="160" as="sourcePoint"/>
+                        <mxPoint x="650" y="110" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-16" value="" style="endArrow=none;html=1;fontColor=#BECCBA;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wqma2fmxox-Q1F-XaQAo-7">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="600" y="520" as="sourcePoint"/>
+                        <mxPoint x="650" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Wqma2fmxox-Q1F-XaQAo-17" value="" style="endArrow=none;html=1;fontColor=#BECCBA;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wqma2fmxox-Q1F-XaQAo-8">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="600" y="350" as="sourcePoint"/>
+                        <mxPoint x="650" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
